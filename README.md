@@ -3,7 +3,7 @@ Synthetic monitoring is a proactive way of monitoring systems where you simulate
 
 # Project Layout
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 synthetic-monitor/
