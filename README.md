@@ -2,6 +2,10 @@
 Synthetic monitoring is a proactive way of monitoring systems where you simulate user actions (like login, API calls, page loads) using scripts or bots—even when no real users are active.
 
 # Project Layout
+
+## 🏗️ Project Structure
+
+```text
 synthetic-monitor/
 ├── config/
 │   └── checks.yaml          # check definitions
@@ -21,3 +25,4 @@ synthetic-monitor/
 │   └── grafana.json         # pre-built Grafana dashboard
 ├── requirements.txt
 └── main.py
+ 
